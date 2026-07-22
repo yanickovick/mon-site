@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yanickovick.github.io/mon-site/sitemap.xml
